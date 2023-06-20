@@ -147,4 +147,5 @@
 
 ## Authors
   - Jonathan Zollinger
+  - Aaron Kynaston
   - Brian Santarossa
